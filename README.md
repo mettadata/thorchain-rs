@@ -79,7 +79,3 @@ To get access to the crate's generated documentation, use:
 cargo doc --open
 ```
 
-## Author
-
-devs@thorchain.org
-
